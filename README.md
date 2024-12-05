@@ -9,25 +9,25 @@ Description:
 
 Features:
   1.User Authentication
-  •	Login functionality for registered users.
-  •	Registration for new users.
+    •	Login functionality for registered users.
+    •	Registration for new users.
   2.Library Management
-  •	Add new books to the library inventory.
-  •	Remove books from the library inventory.
-  •	Issue books to users and manage lending.
-   •	View the list of books available in the library.
+    •	Add new books to the library inventory.
+    •	Remove books from the library inventory.
+    •	Issue books to users and manage lending.
+    •	View the list of books available in the library.
 
 Installation:
   1.Pre-requisites:
-  •	Python 3.x installed on your machine.
-  •	Tkinter library (comes pre-installed with Python).
+    •	Python 3.x installed on your machine.
+    •	Tkinter library (comes pre-installed with Python).
   2.Steps to Run the Project:
-  •	Clone or download this project.
-  •	Save the script as library_management.py.
-  •	Open a terminal or command prompt.
-  •	Navigate to the directory where the script is saved.
-  •	Run the script using the command
-        python library_management.py
+    •	Clone or download this project.
+    •	Save the script as library_management.py.
+    •	Open a terminal or command prompt.
+    •	Navigate to the directory where the script is saved.
+    •	Run the script using the command
+          python library_management.py
 
 How to Use:
   1.Login:
