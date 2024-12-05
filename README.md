@@ -9,13 +9,13 @@ Description:
 
 Features:
   1.User Authentication
-    •	Login functionality for registered users.
-    •	Registration for new users.
+  •	Login functionality for registered users.
+  •	Registration for new users.
   2.Library Management
-    •	Add new books to the library inventory.
-    •	Remove books from the library inventory.
-    •	Issue books to users and manage lending.
-    •	View the list of books available in the library.
+  •	Add new books to the library inventory.
+  •	Remove books from the library inventory.
+  •	Issue books to users and manage lending.
+   •	View the list of books available in the library.
 
 Installation:
   1.Pre-requisites:
